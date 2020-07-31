@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,WACF,CAEA,eACE,8BAA+B,CAC/B,aACF","file":"main.960c59c6.chunk.css","sourcesContent":[".jumbotron {\n  height: 80px;\n}\n\n.is-scrollable {\n  max-height: calc(100vh - 225px);\n  overflow: auto;\n}\n"]}
